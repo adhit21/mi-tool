@@ -27,7 +27,7 @@ if [ ! -f "$mitoolusers" ]; then
         echo -ne "\rapt upgrade ..."
         apt upgrade > /dev/null 2> >(grep -v "apt does not have a stable CLI interface")
     fi
-    curl -Is https://github.com/offici5l/Mi-Tool/releases/download/tracking/totalusers> /dev/null 2>&1
+    curl -Is https://github.com/adhit21/mi-tool/releases/download/tracking/totalusers> /dev/null 2>&1
     touch "$mitoolusers"
 fi
 
