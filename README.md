@@ -1,17 +1,16 @@
-# mi-tool
-xiaomi unlock tool
+# Mi-Tool
+**Xiaomi Unlock Tool for Termux**
 
-## INSTALLATION & SETUP
-1 - Install [Termux & Termux-api](http://offici5l.github.io/d-termux.html)
+## 📥 Installation & Setup
 
-2 - From Termux command line:
+### 1️⃣ Install Dependencies  
+Klik untuk mengunduh:  
+- [Termux](https://google.com)  
+- [Termux API](https://google.com)  
+
+### 2️⃣ Setup & Install via Termux  
+Buka **Termux**, lalu jalankan perintah berikut:  
+
 ```bash
 termux-setup-storage
-```
-```bash
 curl -sS https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh | bash
-```
-
-<div align="center">
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
