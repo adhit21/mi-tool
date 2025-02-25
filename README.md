@@ -5,8 +5,8 @@
 
 ### 1️⃣ Install Dependencies  
 Klik untuk mengunduh:  
-- [Termux](https://google.com)  
-- [Termux API](https://google.com)  
+- [Termux](https://github.com/termux/termux-app/releases/latest)  
+- [Termux API](https://github.com/termux/termux-api/releases/latest)  
 
 ### 2️⃣ Setup & Install via Termux  
 Buka **Termux**, lalu jalankan perintah berikut:  
