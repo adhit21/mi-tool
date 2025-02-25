@@ -13,9 +13,6 @@ Open **Termux**, then run the following commands:
 
 ```bash
 termux-setup-storage
-
-```bash
-termux-setup-storage
 ```
 ```bash
 curl -sS https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh | bash
