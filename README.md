@@ -3,10 +3,10 @@
 
 ## 📥 Installation & Setup
 
-### 1️⃣ Install Dependencies  
+### 1️⃣ Install App  
 Click to download:  
-- [Termux](https://github.com/termux/termux-app/releases/latest)  
-- [Termux API](https://github.com/termux/termux-api/releases/latest)  
+- [Termux](https://github.com/termux/termux-app/releases/latest) *(Skip if already installed)*  
+- [Termux API](https://github.com/termux/termux-api/releases/latest) *(Skip if already installed)*  
 
 ### 2️⃣ Setup & Install via Termux  
 Open **Termux**, then run the following commands:  
