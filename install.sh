@@ -175,7 +175,7 @@ for lib in "${libs[@]}"; do
 
 done
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mitool.py" -o "$PREFIX/bin/mitool" && chmod +x "$PREFIX/bin/mitool"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mitool.py" -o "$PREFIX/bin/mitool" && chmod +x "$PREFIX/bin/mi-tool"
 
 _progress
 
