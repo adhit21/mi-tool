@@ -175,28 +175,28 @@ for lib in "${libs[@]}"; do
 
 done
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/mitool.py" -o "$PREFIX/bin/mitool" && chmod +x "$PREFIX/bin/mitool"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mitool.py" -o "$PREFIX/bin/mitool" && chmod +x "$PREFIX/bin/mitool"
 
 _progress
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/mihelp.py" -o "$PREFIX/bin/mihelp" && chmod +x "$PREFIX/bin/mihelp"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mihelp.py" -o "$PREFIX/bin/mihelp" && chmod +x "$PREFIX/bin/mihelp"
 
 _progress
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/miflashf.py" -o "$PREFIX/bin/miflashf" && chmod +x "$PREFIX/bin/miflashf"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/miflashf.py" -o "$PREFIX/bin/miflashf" && chmod +x "$PREFIX/bin/miflashf"
 
 _progress
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/miflashs.py" -o "$PREFIX/bin/miflashs" && chmod +x "$PREFIX/bin/miflashs"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/miflashs.py" -o "$PREFIX/bin/miflashs" && chmod +x "$PREFIX/bin/miflashs"
 
 _progress
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/mifce.py" -o "$PREFIX/bin/mifce" && chmod +x "$PREFIX/bin/mifce"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mifce.py" -o "$PREFIX/bin/mifce" && chmod +x "$PREFIX/bin/mifce"
 
 _progress
 
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/mt/miasst.py" -o "$PREFIX/bin/miasst" && chmod +x "$PREFIX/bin/miasst"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/miasst.py" -o "$PREFIX/bin/miasst" && chmod +x "$PREFIX/bin/miasst"
 
 _progress
 
