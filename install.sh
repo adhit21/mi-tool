@@ -179,6 +179,10 @@ curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/
 
 _progress
 
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/micomu.py" -o "$PREFIX/bin/mi-tool" && chmod +x "$PREFIX/bin/micomu"
+
+_progress
+
 curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mihelp.py" -o "$PREFIX/bin/mihelp" && chmod +x "$PREFIX/bin/mihelp"
 
 _progress
