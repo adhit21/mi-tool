@@ -26,5 +26,7 @@ Open **Termux**, then run these commands one by one:
 
 ```bash
 termux-setup-storage
+```
 ```bash
-termux-setup-storaga
+curl -sS https://raw.githubusercontent.com/adhit21/mi-tool/main/install.sh | bash
+```
