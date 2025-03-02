@@ -63,7 +63,7 @@ echo -ne "\rapt update ..."
 apt update > /dev/null 2> >(grep -v "apt does not have a stable CLI interface")
 
 charit=-1
-total=31
+total=34
 start_time=$(date +%s)
 
 _progress() {
@@ -205,11 +205,15 @@ curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/
 _progress
 
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mi-ck.py" -o "$PREFIX/bin/mi-ck" && chmod +x "$PREFIX/bin/mi-ck"
+curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/mi-ck.py" -o "$PREFIX/bin/mi-ck" && chmod +x "$PREFIX/bin/mi-ck"
 
 _progress
 
-curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/usbtest" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-usb"
+curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/usbtest" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-usb"
+
+_progress
+
+curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/fs.py" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-fastboot-h"
 
 _progress
 
