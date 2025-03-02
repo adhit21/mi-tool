@@ -1,3 +1,4 @@
+
 # Mi-Tool  
 **Xiaomi Unlock Tool for Termux**
 
@@ -27,6 +28,56 @@ Open **Termux**, then run these commands one by one:
 ```bash
 termux-setup-storage
 ```
+
 ```bash
-curl -sS https://raw.githubusercontent.com/adhit21/mi-tool/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/adhit21/mi-tool/main/install.sh | bash
 ```
+
+---
+
+### ℹ️ Additional Info  
+- **For Xiaomi/Redmi/POCO devices only.**  
+- **Use at your own risk. Make sure to backup your data before using Mi-Tool.**  
+- **Some operations may erase all data on your device.**
+
+---
+
+### ✅ After Installation  
+- Run the tool using:  
+```bash
+mi-tool
+```
+- Check available commands using:  
+```bash
+mihelp
+```
+
+---
+
+### ⚙️ Features
+
+| No  | Feature                                 | Description                                           |
+|----|-----------------------------------|---------------------------------------------------|
+| 1  | Cek Device Info                    | Check basic device info via ADB                  |
+| 2  | Unlock Bootloader                  | Unlock Xiaomi bootloader (official method)     |
+| 3  | Request Unlock Bootloader          | Request unlock permission from Xiaomi          |
+| 4  | Flash Fastboot ROM                 | Flash official fastboot ROM                     |
+| 5  | Flash Zip (Sideload)               | Flash update zip via ADB Sideload               |
+| 6  | Bypass                             | Unlock specific devices (for supported models) |
+| 7  | Mi Assistant                       | Access Mi Assistant tools                       |
+| 8  | Firmware Content Extractor         | Extract content from firmware                   |
+| 9  | ADB & FASTBOOT Helper              | Quick commands for ADB & Fastboot               |
+| 10 | Exit                               | Exit the tool                                   |
+
+---
+
+### ⚠️ Disclaimer  
+- This tool is provided **as-is** without any warranty.  
+- The developer is not responsible for any damage caused by improper usage.
+
+---
+
+### ✉️ Contact & Support  
+- Telegram: [Mi-Tool Support Group](https://t.me/+62895331944545)
+
+---
