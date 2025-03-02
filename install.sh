@@ -213,7 +213,7 @@ curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/usbtest" -o "$P
 
 _progress
 
-curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/fs.py" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-fastboot-h"
+curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/fs.py" -o "$PREFIX/bin/mi-fastboot-h" && chmod +x "$PREFIX/bin/mi-fastboot-h"
 
 _progress
 
