@@ -26,3 +26,5 @@ Open **Termux**, then run these commands one by one:
 
 ```bash
 termux-setup-storage
+```bash
+termux-setup-storaga
