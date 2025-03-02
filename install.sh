@@ -205,11 +205,11 @@ curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/
 _progress
 
 
-curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/mi-ck.py" -o "$PREFIX/bin/mi-ck" && chmod +x "$PREFIX/bin/mi-ck"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/mi-ck.py" -o "$PREFIX/bin/mi-ck" && chmod +x "$PREFIX/bin/mi-ck"
 
 _progress
 
-curl -s "https://github.com/adhit21/Android-Mod-Inject/master/mt/usbtest" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-usb"
+curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/usbtest" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-usb"
 
 _progress
 
