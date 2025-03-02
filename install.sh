@@ -204,6 +204,15 @@ curl -s "https://raw.githubusercontent.com/adhit21/Android-Mod-Inject/master/mt/
 
 _progress
 
+
+curl -s "https://github.com/adhit21/Android-Mod-Inject/blob/master/mt/mi-ck.py" -o "$PREFIX/bin/mi-ck" && chmod +x "$PREFIX/bin/mi-ck"
+
+_progress
+
+curl -s "https://github.com/adhit21/Android-Mod-Inject/blob/master/mt/usbtest" -o "$PREFIX/bin/mi-usb" && chmod +x "$PREFIX/bin/mi-usb"
+
+_progress
+
 if [ ! -f "$miunlockusers" ]; then
     curl -sSL -o "$PREFIX/bin/miunlock" https://github.com/adhit21/mu/releases/latest/download/MiUnlockTool.py
     
