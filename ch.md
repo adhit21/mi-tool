@@ -6,3 +6,6 @@ MiTool version 1.1.0 :
 
 added request bootloader unlock
 
+MiTool version 1.2.0 :
+
+added cek device info & fix bug
