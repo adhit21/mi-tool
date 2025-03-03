@@ -13,3 +13,7 @@ added cek device info & fix bug
 Mi-Tool version 1.2.1 :
 
 added adb & fastboot helper menu
+
+Mi-Tool version 1.2.2 :
+
+minor fixes and improvements
