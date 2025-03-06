@@ -30,7 +30,7 @@ termux-setup-storage
 ```
 
 ```bash
-curl -s https://raw.githubusercontent.com/adhit21/mi-tool/main/install.sh | bash
+curl https://raw.githubusercontent.com/adhit21/mi-tool/main/install.sh -o install.sh && bash install.sh
 ```
 
 ---
