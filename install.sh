@@ -1,6 +1,11 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+apt update && apt upgrade -y
+
+apt install -y wget
+
 echo
+
 
 if [ ! -d "$HOME/storage" ]; then
     echo -e "\nGrant permission: termux-setup-storage\nThen rerun the command.\n"
@@ -141,7 +146,6 @@ packages=(
     "pv"
     "tur-repo"
     "python-pycryptodomex"
-    
 )
 
 for package in "${packages[@]}"; do
