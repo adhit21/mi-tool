@@ -252,3 +252,5 @@ curl -L -s https://raw.githubusercontent.com/adhit21/mi-tool/main/ch.md | tac | 
 
 
 printf "\nuse command: \e[1;32mmi-tool\e[0m\n\n"
+
+rm install.sh
