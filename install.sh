@@ -1,7 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-
-
 echo
 
 if [ ! -d "$HOME/storage" ]; then
