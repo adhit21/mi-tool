@@ -1,5 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+pkg install wget
+
 echo
 
 if [ ! -d "$HOME/storage" ]; then
