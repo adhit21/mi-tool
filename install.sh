@@ -125,7 +125,6 @@ ln -sf "$PREFIX/bin/termux-fastboot" "$PREFIX/bin/fastboot" && ln -sf "$PREFIX/b
 
 packages=(
     "libffi"
-    "wget"
     "abseil-cpp"
     "termux-api"
     "libusb"
