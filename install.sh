@@ -142,6 +142,7 @@ packages=(
     "tur-repo"
     "python-pycryptodomex"
     "wget"
+    "libuuid"
 )
 
 for package in "${packages[@]}"; do
