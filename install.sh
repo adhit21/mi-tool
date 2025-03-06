@@ -141,6 +141,7 @@ packages=(
     "pv"
     "tur-repo"
     "python-pycryptodomex"
+    "wget"
 )
 
 for package in "${packages[@]}"; do
