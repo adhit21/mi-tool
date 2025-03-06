@@ -17,3 +17,7 @@ added adb & fastboot helper menu
 Mi-Tool version 1.2.2 :
 
 minor fixes and improvements
+
+Mi-Tool version 1.3.1 :
+
+minor fixes and improvements
