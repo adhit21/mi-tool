@@ -246,6 +246,8 @@ curl -s -L -o $PREFIX/bin/miasst_termux $(curl -s "https://api.github.com/repos/
 
 _progress
 
+apt --fix-broken install -y
+
 echo
 
 curl -L -s https://raw.githubusercontent.com/adhit21/mi-tool/main/ch.md | tac | awk '/^#/{exit} {print "\033[0;34m" $0 "\033[0m"}' | tac
