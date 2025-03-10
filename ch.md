@@ -23,3 +23,7 @@ minor fixes and improvements
 Mi-Tool version 1.3.1 :
 
 minor fixes and improvements
+
+Mi-Tool version 1.3.2 :
+
+add edl mode flash tool
