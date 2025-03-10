@@ -71,8 +71,13 @@ mihelp
 
 ---
 
+
+
 ### 📱📱📱SCREENSHOT📱📱📱  
-![Screenshot_2025-03-10-03-03-39-723_com termux](https://github.com/user-attachments/assets/77f4134b-02bc-4cc3-9016-398d99d71071)
+
+![Screenshot_2025-03-10-03-03-39-723_com termux](https://github.com/user-attachments/assets/b7da92b7-7ff6-4458-9773-ed89880d8022)
+
+
 
 
 ### ⚠️ Disclaimer  
